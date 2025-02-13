@@ -1,9 +1,5 @@
 # 百川任务平台 作业帮领题自动化工具
 
-[![GitHub Stars](https://img.shields.io/github/stars/wzunjh/baichuan_task_tool?style=social)](https://github.com/wzunjh/baichuan_task_tool)
-[![GitHub Forks](https://img.shields.io/github/forks/wzunjh/baichuan_task_tool?style=social)](https://github.com/wzunjh/baichuan_task_tool)
-[![GitHub Issues](https://img.shields.io/github/issues/wzunjh/baichuan_task_tool)](https://github.com/wzunjh/baichuan_task_tool/issues)
-
 **免责声明：** 本工具由智通全网络工作室开发，仅供学习交流使用，请勿用于任何商业或非法用途。因滥用工具造成的任何损失，开发者概不负责。
 
 ## 项目简介
@@ -38,25 +34,16 @@
     *   **Cookie登录：**  在 "BCUSS Cookie" 输入框中填入有效的BCUSS值，然后选择 "Cookie" 登录方式，点击 "登录" 按钮。
     *   **短信验证码登录：**  选择 "短信验证码" 登录方式，填入手机号，点击 "发送验证码" 按钮，收到验证码后填入 "验证码" 输入框，点击 "登录" 按钮。
 
-    ```
    ![3b3d1c6a40e785919301c47befa9e8b](https://github.com/user-attachments/assets/7a21542b-84a5-4194-b493-3198f4af7f42)
 
-    ```
-
-    ```
    ![e46ba660c65889da65dafa9deeb0b4f](https://github.com/user-attachments/assets/f31d349f-81dc-4967-a2ae-435693aa603f)
 
-
-    ```
 
 5.  **选择模式：**
     *   根据您的需求选择 "录课领题"、"自审领题" 或 "同时录课和自审" 模式，点击相应的按钮开始任务。
 
-    ```
-  ![e8daa3cf23d9ef78edba883c1fc2a79](https://github.com/user-attachments/assets/8cfb6c65-e73a-401b-9b1e-17cb975bb5d9)
+   ![e8daa3cf23d9ef78edba883c1fc2a79](https://github.com/user-attachments/assets/8cfb6c65-e73a-401b-9b1e-17cb975bb5d9)
 
-
-    ```
 
 6.  **监控日志：**
     *   在 "日志" 区域查看任务领取过程中的各种信息。
