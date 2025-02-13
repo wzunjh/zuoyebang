@@ -44,7 +44,8 @@
     ```
 
     ```
-    ![e46ba660c65889da65dafa9deeb0b4f](https://github.com/user-attachments/assets/b5cbfe51-f787-4f1c-aff1-9cb43a714a60)
+   ![e46ba660c65889da65dafa9deeb0b4f](https://github.com/user-attachments/assets/f31d349f-81dc-4967-a2ae-435693aa603f)
+
 
     ```
 
@@ -52,7 +53,8 @@
     *   根据您的需求选择 "录课领题"、"自审领题" 或 "同时录课和自审" 模式，点击相应的按钮开始任务。
 
     ```
-    ![e8daa3cf23d9ef78edba883c1fc2a79](https://github.com/user-attachments/assets/d1dd5e7a-c1f6-4f1e-b988-5914e52ee0bd)
+  ![e8daa3cf23d9ef78edba883c1fc2a79](https://github.com/user-attachments/assets/8cfb6c65-e73a-401b-9b1e-17cb975bb5d9)
+
 
     ```
 
