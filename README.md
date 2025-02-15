@@ -55,6 +55,12 @@
 *   **运行过程中，请保持网络连接稳定。**
 *   **本工具仅供学习交流使用，请勿用于任何商业或非法用途。**
 
+## 关注公众号
+### 扫码关注获取解压密码
+![8e9824d5e5c773125f301a8853bd34d](https://github.com/user-attachments/assets/45c518e4-830d-4e6a-a061-f1d64ca15795)
+
+
+
 ## 技术支持
 
 *   **GitHub:** [github.com/wzunjh](https://github.com/wzunjh)
