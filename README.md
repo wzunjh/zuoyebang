@@ -21,7 +21,7 @@
 
 1.  **环境准备：**
 
-    *   **下载ChromeDriver:** 下载与您的Chrome浏览器版本相匹配的ChromeDriver(https://googlechromelabs.github.io/chrome-for-testing/)，并将其放置在与程序相同的目录下。（若无驱动可在CSDN查看教程）
+    *   **下载ChromeDriver:** 下载与您的Chrome浏览器版本相匹配的ChromeDriver(https://googlechromelabs.github.io/chrome-for-testing)，并将其放置在与程序相同的目录下。（若无驱动可在CSDN查看教程）
 
 2.  **运行：**
     *   双击运行程序，打开图形界面。
